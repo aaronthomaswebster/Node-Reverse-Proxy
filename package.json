@@ -1,0 +1,26 @@
+{
+  "name": "node-reverse-proxy",
+  "version": "1.0.0",
+  "description": "Bolierplate code for a reveres proxy using node js. This Express app will allow you to host multiple websites with differing domains on the same server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronthomaswebster/Node-Reverse-Proxy.git"
+  },
+  "keywords": [
+    "express",
+    "reverese",
+    "proxy",
+    "http-proxy-middleware"
+  ],
+  "author": "Aaron Webter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronthomaswebster/Node-Reverse-Proxy/issues"
+  },
+  "homepage": "https://github.com/aaronthomaswebster/Node-Reverse-Proxy#readme"
+}
